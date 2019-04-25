@@ -1,2 +1,0 @@
-# Formulario_PowerApp
-Formulario_PowerApp
